@@ -1,4 +1,4 @@
-# user-management
+# dotnet-api
 Backend template application (RESTFul API) for managing application user data and access rights. 
 Technologies and Frameworks:
 - .Net Framework version 8 with C# Language
